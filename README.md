@@ -23,7 +23,7 @@ This is quite a big problem is hospitals, it happens a lot (almost 40% in Mexico
 In addition to that once the model detects there are no faces it sends an alarm to our platform at which time was quite lean, it used MQTT to communicate that message, and once the information was on the webpage we could trigger any alarm we wanted to, on that step we just refreined to an email and a notification.
 
 We actually don't have any photos of that working as most of the pictures of the hackathon and the pith were lost but it looked like this:
-<img src= "https://www.raspberrypi.org/app/uploads/2017/05/Pi-Camera-attached-1-1390x1080.jpg">
+<img src= "https://www.raspberrypi.org/app/uploads/2017/05/Pi-Camera-attached-1-1390x1080.jpg" width="600">
 
 And the camera was literally taped to a tripod, but for a hackathon it was an awesome PoC.
 
@@ -76,7 +76,7 @@ Since then we developed an aditional use case that is just being an IP camera ab
 
 1.- After patients have received contrast (which contains a radioactive isotope and is analog to glucose), they sometimes have very agressive reactions. The problem is that in that time the patient has to be secluded from everyone for a period of 2 to 3 hours before being scanned. And that is where our camera module comes in just as an IP camera capable of sending notifications. This use case was actually recommended by the main Biomedical Engineer of Ángeles Acoxpa which is one of the biggest hospital chains in Mexico city.
 
-<img src= https://prd-medweb-cdn.s3.amazonaws.com/documents/radiology/images/PET-scanner.jpg>
+<img src= https://prd-medweb-cdn.s3.amazonaws.com/documents/radiology/images/PET-scanner.jpg width="600">
 
 2.- We have been improving on the algorithm and exploring several other technologies that use vision, and in the meantime generated several other demos:
 
@@ -86,17 +86,17 @@ We have been very busy with the maker and tech community so we were able to gain
 With this we developed a Two factor authentication to control access to maternity rooms. 
 Demo (just click on the image): 
 
-[![OpenCV](https://i.pinimg.com/originals/2e/f3/29/2ef3290894bebe15141650e1577bfc0d.png)](https://www.youtube.com/watch?v=bJGoDKyP2c4)
+[![OpenCV](https://i.ibb.co/kM59BzQ/0931495093-1.png)](https://www.youtube.com/watch?v=bJGoDKyP2c4)
 
 More information on:https://www.hackster.io/126496/techcare-baby-safe-ad1936
 
 And evidence that we have the AI kit: 
-<img src="https://s3.amazonaws.com/stratupbootcampbucket/thunder.jpg">
+<img src="https://s3.amazonaws.com/stratupbootcampbucket/thunder.jpg" width="600">
 
 - Python SDK libraries to use with drones:
 Demo (just click on the image):  
 
-[![Drones](https://i.pinimg.com/originals/2e/f3/29/2ef3290894bebe15141650e1577bfc0d.png)](https://www.youtube.com/watch?v=3FCZAMbMd8s)
+[![Drones](https://foto321.com/10111-thickbox_default/drone-dji-tello.jpg)](https://www.youtube.com/watch?v=3FCZAMbMd8s)
 
 More information on: -----link de hackster victor
 
@@ -108,8 +108,8 @@ In the meanwhile we have been experimenting with CV with the FPGA but we have ye
 
 Here is evidence of ownership:
 
-<img src= "https://i.ibb.co/b64f0Hh/Whats-App-Image-2019-03-03-at-15-19-25.jpg" width="800">
-<img src= "https://i.ibb.co/k9MCDjP/Whats-App-Image-2019-03-03-at-15-20-22.jpg" width="800">
+<img src= "https://i.ibb.co/b64f0Hh/Whats-App-Image-2019-03-03-at-15-19-25.jpg" width="600">
+<img src= "https://i.ibb.co/k9MCDjP/Whats-App-Image-2019-03-03-at-15-20-22.jpg" width="600">
 
 And that's pretty much it, we have several prototypes that we will be willing to try at the hospital pilots this next month. We are eager to reduce our stack to a single refined Production candidate as we check on production costs, and the effectiveness of these options. And of course your input would be invaluable as most of the other parts of the design are mostly finished.
 
