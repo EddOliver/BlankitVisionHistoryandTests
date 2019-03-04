@@ -23,6 +23,7 @@ This is quite a big problem is hospitals, it happens a lot (almost 40% in Mexico
 In addition to that once the model detects there are no faces it sends an alarm to our platform at which time was quite lean, it used MQTT to communicate that message, and once the information was on the webpage we could trigger any alarm we wanted to, on that step we just refreined to an email and a notification.
 
 We actually don't have any photos of that working as most of the pictures of the hackathon and the pith were lost but it looked like this:
+
 <img src= "https://www.raspberrypi.org/app/uploads/2017/05/Pi-Camera-attached-1-1390x1080.jpg" width="600">
 
 And the camera was literally taped to a tripod, but for a hackathon it was an awesome PoC.
