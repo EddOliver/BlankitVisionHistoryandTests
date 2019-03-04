@@ -91,8 +91,9 @@ Demo (just click on the image):
 
 More information on:https://www.hackster.io/126496/techcare-baby-safe-ad1936
 
-And evidence that we have the AI kit: 
-<img src="https://s3.amazonaws.com/stratupbootcampbucket/thunder.jpg" width="600">
+And evidence that we have the AI kit:
+
+<img src="https://i.ibb.co/k05LrdL/thunder.jpg" width="800">
 
 - Python SDK libraries to use with drones:
 Demo (just click on the image):  
