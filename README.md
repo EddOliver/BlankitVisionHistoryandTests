@@ -8,7 +8,9 @@ This repository has been created to showcase the history of development of Blank
 
 Created to provide a demo for Hax accelerator.
 
-The first iteration of this module was born during AngelHack Mexico City: https://angelhack.com/portfolio-posts/angelhack-mexico-city-hackathon-2018-june-23-24-2018/. Which we won in the end with practically the same idea that would be refined at later dates.
+The first iteration of this module was born during AngelHack Mexico City: https://angelhack.com/portfolio-posts/angelhack-mexico-city-hackathon-2018-june-23-24-2018/. 
+
+Which we won in the end with practically the same idea that would be refined at later dates.
 That win gave us access to the entrepreneurial ecosystem in San Francisco, exposure an Incubation program and further acceleration down the line. http://blog.angelhack.com/meet-the-hackcelerators-2018-startups
 
 That fist version was built on a Raspberry Pi 3, the programming logic was also simple, we saved every certain time a picture and sent it to a Vision recognition service provided by IBM (Visual Recognition). We fiddled with a model created by us in order to recognize the presence or absence of human faces. At this point it didn't matter if we didn't recognize anything else as we were just solving for the use case of absence.  
@@ -27,7 +29,7 @@ And the camera was literally taped to a tripod, but for a hackathon it was an aw
 
 After that we improved much more the design and produced a demo as we were going thriough technical due diligence by AngelHack. Here it is (just click on the image): 
 
-[![Vision Demo - MIA - Blankit](https://i.pinimg.com/originals/2e/f3/29/2ef3290894bebe15141650e1577bfc0d.png)](https://youtu.be/OX0gO1C_PAA)
+[![Vision Demo - MIA - Blankit](https://i.ibb.co/93hTrgC/images.png)](https://youtu.be/OX0gO1C_PAA)
 
 Then we advanced through the two Incubators that we were on during that time, (AngelHack's Hackcelerator and Tec Lean Launch of our University: http://tecleanlaunchcdmx.strikingly.com/portafolio).
 
