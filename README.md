@@ -86,7 +86,7 @@ Demo:https://www.youtube.com/watch?v=bJGoDKyP2c4
 More information on:https://www.hackster.io/126496/techcare-baby-safe-ad1936
 
 And evidence that we have the AI kit: 
-<img src="https://drive.google.com/file/d/1_tgKKWx2V9gS1SdM9CyfS5G5YV7ljvlG/view?usp=sharing">
+<img src="https://s3.amazonaws.com/stratupbootcampbucket/thunder.jpg">
 
 
 - Python SDK libraries to use with drones:
