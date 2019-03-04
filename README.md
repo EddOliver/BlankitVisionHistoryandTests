@@ -59,7 +59,8 @@ Went to Johns Hopkins University to Medhacks, which is the world's premier Medic
 
 https://devpost.com/software/amy-the-voice-of-medicine?utm_campaign=winner_email&utm_content=submission_won&utm_medium=tweet&utm_source=twitter
 
-Participated in GlobalDemoDay with an excellent result:
+Participated in GlobalDemoDay with an excellent result (click on the image please):
+
 [![Blankit at AngelHack’s Global Demo Day 2018](https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397750238/263f7da43e4360c0912997e3950e938e.jpg)](https://youtu.be/cTsb9BTLCpY)
 
 And later we went to Monterrey Mexico to participate in INCmty Prize for health Entrepreneurship IBM - TecSalud, and yes we also won that one:
