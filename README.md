@@ -100,7 +100,7 @@ Demo (just click on the image):
 
 [![Drones](https://foto321.com/10111-thickbox_default/drone-dji-tello.jpg)](https://www.youtube.com/watch?v=3FCZAMbMd8s)
 
-More information on: -----link de hackster victor
+More information on: https://github.com/altaga/Receptionist-Drone-with-CV
 
 - FPGA development on the Ultra 96.
 For this we deployed a solution for Industrial IoT, and we are exploring its capabilities for image recognition.
