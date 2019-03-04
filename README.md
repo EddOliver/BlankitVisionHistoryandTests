@@ -29,13 +29,12 @@ After that we improved much more the design and produced a demo as we were going
 
 [![Vision Demo - MIA - Blankit](https://i.ibb.co/QQ985bK/1.png)](https://youtu.be/OX0gO1C_PAA)
 
-
 Then we advanced through the two Incubators that we were on during that time, (AngelHack's Hackcelerator and Tec Lean Launch of our University: http://tecleanlaunchcdmx.strikingly.com/portafolio).
 
 With that pressure we had to iterate into a much better design, and we improved on the algorithm.
 Still a PoC but we went to a Retirement home to run a pilot on it, we cannot share much because we signed an NDA with the retirement home but here is a small demo of the whole system working (its quite bad I know but that is what we were allowed to share):
 
-https://www.youtube.com/watch?v=WM3jetAzUF4  ------Victor .Ponlo para que des click en imagen
+[![MIA - Blankit](https://i.pinimg.com/originals/2e/f3/29/2ef3290894bebe15141650e1577bfc0d.png)](https://www.youtube.com/watch?v=WM3jetAzUF4)
 
 We learned quite a lot from this pilot including:
 - The voice assistant works quite well, but not for patients who have hearing impairments, and in that population that is a huge percentage.
@@ -47,11 +46,12 @@ The next step was to finish those Incubators with two demo days, one in Mexico C
 
 For that we streamlined everything and improved on our UX and UI:
 
--------Victor sube imagen del modulo de imagen y una de todos los modulos las buenas negras de san fran
+<img src= "https://i.ibb.co/VTLnG04/producto.jpg" width="400">
+<img src= "https://i.ibb.co/gyq1GKq/IMG-0442.jpg" width="400">
 
 And we produced this more professional video of the system:
 
--------------victor pon el video Bueno el mamado que hizo snapfilms como imagen aqui
+[![MIA - Blankit](https://f6s-public.s3.amazonaws.com/profiles/2067818_original.jpg)](https://www.youtube.com/watch?v=FsZbNS0OOMY)
 
 With this came a period of going around several cities in the US and Mexico, participating in pitches and contests and we actually obtained victories in most of them.
 
@@ -82,16 +82,19 @@ We have been very busy with the maker and tech community so we were able to gain
 
 - Android Development using the OpenCV SDK and the Thundercom AI kit:
 With this we developed a Two factor authentication to control access to maternity rooms. 
-Demo:https://www.youtube.com/watch?v=bJGoDKyP2c4
+Demo: 
+
+[![OpenCV](https://i.pinimg.com/originals/2e/f3/29/2ef3290894bebe15141650e1577bfc0d.png)](https://www.youtube.com/watch?v=bJGoDKyP2c4)
 
 More information on:https://www.hackster.io/126496/techcare-baby-safe-ad1936
 
 And evidence that we have the AI kit: 
 <img src="https://s3.amazonaws.com/stratupbootcampbucket/thunder.jpg">
 
-
 - Python SDK libraries to use with drones:
-Demo:  ------------victor tu video del dron
+Demo:  
+
+[![Drones](https://i.pinimg.com/originals/2e/f3/29/2ef3290894bebe15141650e1577bfc0d.png)](https://www.youtube.com/watch?v=3FCZAMbMd8s)
 
 More information on: -----link de hackster victor
 
@@ -103,16 +106,9 @@ In the meanwhile we have been experimenting with CV with the FPGA but we have ye
 
 Here is evidence of ownership:
 
--------------Pon las imagenes victor
-
-
+<img src= "https://i.ibb.co/b64f0Hh/Whats-App-Image-2019-03-03-at-15-19-25.jpg" width="800">
+<img src= "https://i.ibb.co/k9MCDjP/Whats-App-Image-2019-03-03-at-15-20-22.jpg" width="800">
 
 And that's pretty much it, we have several prototypes that we will be willing to try at the hospital pilots this next month. We are eager to reduce our stack to a single refined Production candidate as we check on production costs, and the effectiveness of these options. And of course your input would be invaluable as most of the other parts of the design are mostly finished.
 
 Thank you for reading, I know that this may be quite a lot but we are quite enthusiastic about the prospects of joining Hax and taking our technology and Statup to the next level.
-
-
-
-
-
-
