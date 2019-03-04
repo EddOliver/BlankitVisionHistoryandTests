@@ -30,7 +30,7 @@ After that we improved much more the design and produced a demo as we were going
 [![Vision Demo - MIA - Blankit](https://i.ibb.co/QQ985bK/1.png)](https://youtu.be/OX0gO1C_PAA)
 
 
-Then as we advanced through the two Incubators that we were on during that time, (AngelHack's Hackcelerator and Tec Lean Launch of our University: http://tecleanlaunchcdmx.strikingly.com/portafolio).
+Then we advanced through the two Incubators that we were on during that time, (AngelHack's Hackcelerator and Tec Lean Launch of our University: http://tecleanlaunchcdmx.strikingly.com/portafolio).
 
 With that pressure we had to iterate into a much better design, and we improved on the algorithm.
 Still a PoC but we went to a Retirement home to run a pilot on it, we cannot share much because we signed an NDA with the retirement home but here is a small demo of the whole system working (its quite bad I know but that is what we were allowed to share):
