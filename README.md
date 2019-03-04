@@ -24,7 +24,7 @@ In addition to that once the model detects there are no faces it sends an alarm 
 
 We actually don't have any photos of that working as most of the pictures of the hackathon and the pith were lost but it looked like this:
 
-<img src= "https://www.raspberrypi.org/app/uploads/2017/05/Pi-Camera-attached-1-1390x1080.jpg" width="600">
+<img src= "https://www.raspberrypi.org/app/uploads/2017/05/Pi-Camera-attached-1-1390x1080.jpg" width="800">
 
 And the camera was literally taped to a tripod, but for a hackathon it was an awesome PoC.
 
@@ -77,7 +77,7 @@ Since then we developed an aditional use case that is just being an IP camera ab
 
 1.- After patients have received contrast (which contains a radioactive isotope and is analog to glucose), they sometimes have very agressive reactions. The problem is that in that time the patient has to be secluded from everyone for a period of 2 to 3 hours before being scanned. And that is where our camera module comes in just as an IP camera capable of sending notifications. This use case was actually recommended by the main Biomedical Engineer of Ángeles Acoxpa which is one of the biggest hospital chains in Mexico city.
 
-<img src= https://prd-medweb-cdn.s3.amazonaws.com/documents/radiology/images/PET-scanner.jpg width="600">
+<img src= https://prd-medweb-cdn.s3.amazonaws.com/documents/radiology/images/PET-scanner.jpg width="800">
 
 2.- We have been improving on the algorithm and exploring several other technologies that use vision, and in the meantime generated several other demos:
 
