@@ -49,7 +49,7 @@ For that we streamlined everything and improved on our UX and UI:
 <img src= "https://i.ibb.co/VTLnG04/producto.jpg" width="600">
 <img src= "https://i.ibb.co/L0V9RpR/IMG-0442mod.jpg" width="600">
 
-And we produced this more professional video of the system:
+And we produced this more professional video of the system (just click on the image):
 
 [![MIA - Blankit](https://f6s-public.s3.amazonaws.com/profiles/2067818_original.jpg)](https://www.youtube.com/watch?v=FsZbNS0OOMY)
 
@@ -82,7 +82,7 @@ We have been very busy with the maker and tech community so we were able to gain
 
 - Android Development using the OpenCV SDK and the Thundercom AI kit:
 With this we developed a Two factor authentication to control access to maternity rooms. 
-Demo: 
+Demo (just click on the image): 
 
 [![OpenCV](https://i.pinimg.com/originals/2e/f3/29/2ef3290894bebe15141650e1577bfc0d.png)](https://www.youtube.com/watch?v=bJGoDKyP2c4)
 
@@ -92,7 +92,7 @@ And evidence that we have the AI kit:
 <img src="https://s3.amazonaws.com/stratupbootcampbucket/thunder.jpg">
 
 - Python SDK libraries to use with drones:
-Demo:  
+Demo (just click on the image):  
 
 [![Drones](https://i.pinimg.com/originals/2e/f3/29/2ef3290894bebe15141650e1577bfc0d.png)](https://www.youtube.com/watch?v=3FCZAMbMd8s)
 
