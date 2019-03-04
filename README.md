@@ -47,7 +47,7 @@ The next step was to finish those Incubators with two demo days, one in Mexico C
 For that we streamlined everything and improved on our UX and UI:
 
 <img src= "https://i.ibb.co/VTLnG04/producto.jpg" width="600">
-<img src= "https://i.ibb.co/gyq1GKq/IMG-0442.jpg" width="600">
+<img src= "https://i.ibb.co/L0V9RpR/IMG-0442mod.jpg" width="600">
 
 And we produced this more professional video of the system:
 
